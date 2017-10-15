@@ -95,19 +95,36 @@ How can I contact the Dean of Student's office? You may find information on cont
 What if my conflict falls during the final?If your conflict falls during final exams, please let us know immidiately and in advance so that we may work with you.
 When are assignments due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
 Where can I find the course calendar?https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit
+Where is the course syllabus?https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit
 Where can I find assignment 1?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where is assignment 1's rubric?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find assignment 2?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where is assignment 2 defined?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find assignment 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where is assignment 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find project 1?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where is project 1's files?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find project 2?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+What is the location of project 2?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find project 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where are the files for project 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 When is assignment 1 due?Week of August 28th
+When is due date for assignment 1?Week of August 28th
 When is assignment 2 due?Week of September 25th
+Assignment 2 is due when?Week of September 25th
 When is assignment 3 due?Week of October 30th
+What is the date for assignment 3?Week of October 30th
 When is project 1 due?Week of September 4th
+When does project 1 need to be completed?Week of September 4th
 When is project 2 due?Week of October 9th
+What is due date for project 2?Week of October 9th
 When is project 3 due?Week of November 6th
+What is due date for project 3?Week of November 6th
 When is the midterm?Week of October 2nd
+What date is the midterm?Week of October 2nd
 When is the final?Week of November 27th
+What date is the final?Week of November 27th
 Who is the professor for this class?Professor Goel
+Who teaches this class?Professor Goel
+Who is the instructor?Professor Goel
 Who is professor Goel?The professor for this class
