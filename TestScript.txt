@@ -48,7 +48,7 @@ Do I need to log into Piazza regularly?It is important that you log into Piazza 
 How many writing components are there?The course includes 8 writing components: 3 assignments, 2 take home examinations, and 3 projects.
 How are examinations given?The examinations will involve significant amount of essay writing and will test knowledge on the video lessons and accompanying readings.
 How many exams are there?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
-Are there any exams?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+Is there any exam?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
 Do I need to know computer vision?The projects do not require any specialized knowledge of computer vision or image processing.
 Is prior knowledge of computer vision required for the projects?The projects do not require any specialized knowledge of computer vision or image processing.
 Is prior knowledge of image processing required for the projects?The projects do not require any specialized knowledge of computer vision or image processing.
