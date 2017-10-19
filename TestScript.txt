@@ -1,12 +1,45 @@
 Which Faq are you using?Version 20171009
 What is the FAQ version?Version 20171009
+Which FAQ version we’re using?Version 20171009
+What FAQ version is used?Version 20171009
+What is the version of FAQ?Version 20171009
+Which version of FAQ is used?Version 20171009
 What are the course components?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
+What are the components of the course?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
+Which components does the course have?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
+Which components are in the course?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
+What components are included in the course?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
 How long are the videos?This course has 26 videos with about 18 hours of instruction.
+How many videos are there?This course has 26 videos with about 18 hours of instruction.
+How many hours of video are there?This course has 26 videos with about 18 hours of instruction.
+How long do the videos take?This course has 26 videos with about 18 hours of instruction.
+How much video are in the course?This course has 26 videos with about 18 hours of instruction.
 How many hours of instruction for this class?This course has 26 videos with about 18 hours of instruction.
+How long are the instruction for this course?This course has 26 videos with about 18 hours of instruction.
+How many instructions are in this course?This course has 26 videos with about 18 hours of instruction.
+How much time do instructions take in this class?This course has 26 videos with about 18 hours of instruction.
+How many hours of instruction are in this course?This course has 26 videos with about 18 hours of instruction.
 How many exercises are in the videos?The videos have ~150 exercises and ~100 “tutors” embedded in them.
+How many questions are in the videos?The videos have ~150 exercises and ~100 “tutors” embedded in them.
+How many tutors are in the videos?The videos have ~150 exercises and ~100 “tutors” embedded in them.
+How many nano-tutors are there?The videos have ~150 exercises and ~100 “tutors” embedded in them.
+Are there exercises to go with the videos?The videos have ~150 exercises and ~100 “tutors” embedded in them.
+Are there tutors to go with the videos?The videos have ~150 exercises and ~100 “tutors” embedded in them.
 Are there accompanying readings?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list.
+Do you need to do more than just watch the videos?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list.
+Are there resources to help with the projects?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list.
+Are the videos enough to do well in the class?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list.
+Is there more content than just the videos?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list.
 Are there additional readings?Yes
+Do you need to read additional material?Yes
+Is there more reading?Yes
+Will we be required to do additional reading?Yes
+Will there be more readings?Yes
 Who will give peer feedback?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+How much peer feedback is expected?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Will I need to perform peer reviews?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+How many peer reviews will I need to do?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Who will perform peer reviews?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
 Where do I go for announcements?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
 Do I need to log into Piazza regularly?It is important that you log into Piazza regularly and frequently (at least two or three times a week, daily if possible).
 How many writing components are there?The course includes 8 writing components: 3 assignments, 2 take home examinations, and 3 projects.
