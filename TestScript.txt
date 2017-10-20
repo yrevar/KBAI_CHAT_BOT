@@ -9,6 +9,8 @@ What are the components of the course?The course has five components. Video Less
 Which components does the course have?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
 Which components are in the course?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
 What components are included in the course?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
+How is this course structured?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
+What components are included in the course?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
 How long are the videos?This course has 26 videos with about 18 hours of instruction.
 How many videos are there?This course has 26 videos with about 18 hours of instruction.
 How many hours of video are there?This course has 26 videos with about 18 hours of instruction.
@@ -35,6 +37,7 @@ Do you need to read additional material?Yes
 Is there more reading?Yes
 Will we be required to do additional reading?Yes
 Will there be more readings?Yes
+Besides lectures, do we need to study anything else?Yes
 Who will give peer feedback?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
 How much peer feedback is expected?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
 Will I need to perform peer reviews?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
@@ -45,9 +48,13 @@ Do I need to log into Piazza regularly?It is important that you log into Piazza 
 How many writing components are there?The course includes 8 writing components: 3 assignments, 2 take home examinations, and 3 projects.
 How are examinations given?The examinations will involve significant amount of essay writing and will test knowledge on the video lessons and accompanying readings.
 How many exams are there?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+Is there any exam?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
 Do I need to know computer vision?The projects do not require any specialized knowledge of computer vision or image processing.
+Is prior knowledge of computer vision required for the projects?The projects do not require any specialized knowledge of computer vision or image processing.
+Is prior knowledge of image processing required for the projects?The projects do not require any specialized knowledge of computer vision or image processing.
 Are projects individual or group?Projects will be done individually.
 What are the primary learning goals for KBAI?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the primary goals of this class?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
 What is the structure of this course?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
 What will I learn in this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
 What is the Technical Report?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course.
@@ -105,10 +112,16 @@ How often should you check your Georgia Tech email?Once every 24 hours
 Where should you preferably post your questions?Piazza
 What questions are better suited for office hours?Conversational discussions on course material and discussions about individuals' grades.
 Why is Piazza preferred for asking questions related to the class?Posting on piazza opens up the question to input from everyone in the class and creates a self-documenting history of the answer to the question.
+Why do we use Piazza?Posting on piazza opens up the question to input from everyone in the class and creates a self-documenting history of the answer to the question.
 How often will office hours be held?Weekly
+How frequent are office hours held?Weekly
 Will office hours be recorded and posted?No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza
 How should you reach out to instructors about private issues like grades?Post a private Piazza message visible only to the instructors
 How will I be able to participate in office hours?Via the Webex link available on Piazza
+How can I join office hours?Via the Webex link available on Piazza
+How do I join office hours?Via the Webex link available on Piazza
+How can I participate in office hours?Via the Webex link available on Piazza
+How can I attend office hours?Via the Webex link available on Piazza
 What is the purpose of office hours?Synchronous office hours are intended for conversations about individual projects, discussions about course material, etc. rather than straightforward question and answer.
 Where will exemplary assignments be posted?Exemplary assignments, once available, will be posted on piazza for everyone to see.
 What is the point of posting exemplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
@@ -155,6 +168,7 @@ What date is the midterm?Week of October 2nd
 When is the final?Week of November 27th
 What date is the final?Week of November 27th
 Who is the professor for this class?Professor Goel
+Who is the instructor of this class?Professor Goel
 Who teaches this class?Professor Goel
 Who is the instructor?Professor Goel
 Who is professor Goel?The professor for this class
