@@ -1,9 +1,9 @@
-Which Faq are you using?Version 20171009
-What is the FAQ version?Version 20171009
-Which FAQ version we’re using?Version 20171009
-What FAQ version is used?Version 20171009
-What is the version of FAQ?Version 20171009
-Which version of FAQ is used?Version 20171009
+Which Faq are you using?Version 20171021
+What is the FAQ version?Version 20171021
+Which FAQ version we’re using?Version 20171021
+What FAQ version is used?Version 20171021
+What is the version of FAQ?Version 20171021
+Which version of FAQ is used?Version 20171021
 What are the course components?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
 What are the components of the course?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
 Which components does the course have?The course has five components. Video Lessons, Exercises and Readings; Design, Programming and Reflection projects; Assignments and Examinations; Peer Feedback; and Announcements, Question Answering and Discussions.
