@@ -34,7 +34,7 @@ Are the videos enough to do well in the class?Most lessons have an accompanying 
 Is there more content than just the videos?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list.
 Are there additional readings?Yes
 Do you need to read additional material?Yes
-Is there more reading?Yes
+Are there more reading?Yes
 Will we be required to do additional reading?Yes
 Will there be more readings?Yes
 Besides lectures, do we need to study anything else?Yes
